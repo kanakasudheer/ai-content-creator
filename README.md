@@ -15,7 +15,7 @@ A modern web application for generating high-quality content using the Gemini AP
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/kanakasudheer/ai-content-creator.git
 cd Ai-content creator
 ```
 
@@ -84,7 +84,6 @@ The app will be available at [http://localhost:5173](http://localhost:5173).
 
 - `npm run dev` – Start the development server
 - `npm run build` – Build the app for production
-- `npm run preview` – Preview the production build
 
 ## Technologies Used
 
