@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Writer",
+  "description": "A web application that uses AI to generate various types of content like blog posts, rewritten text, summaries, and SEO-optimized content. Users can specify topics, input text, and select writing tones.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
